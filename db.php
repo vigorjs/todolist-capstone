@@ -1,9 +1,9 @@
 <?php 
 
 
-$host_name = 'todolistcerdas-server.mysql.database.azure.com';
-$db_user = 'gwkpnwyqyy';
-$db_pass = '6CAF72JO13JCNEQV$';
+$host_name = 'todolistcerdasdb.mysql.database.azure.com';
+$db_user = 'gwkpnwyqyy@todolistcerdasdb';
+$db_pass = 'Batassuci123';
 $db_name = 'cit_crud';
 
 $con = mysqli_connect($host_name,$db_user,$db_pass,$db_name);
